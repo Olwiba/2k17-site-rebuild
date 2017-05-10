@@ -1,0 +1,25 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-sass": "^2.0.0",
+    "jshint-stylish": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olwiba/2k17-site-rebuild.git"
+  },
+  "author": "olwiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olwiba/2k17-site-rebuild/issues"
+  },
+  "homepage": "https://github.com/Olwiba/2k17-site-rebuild#readme"
+}
